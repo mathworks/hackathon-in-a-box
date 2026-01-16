@@ -2,7 +2,7 @@
 <img src="Images/HackathonsBanner.jpg">
 </td>
 
-# MATLAB&reg; and Simulink&reg; Hackathon in a Box
+# Hackathon in a Box
 
 Hackathons are events where students, hobbyists, and programmers of all levels get together for a short period of time and try to create something using software, hardware, and other materials. 
 
