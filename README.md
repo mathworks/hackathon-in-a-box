@@ -25,6 +25,8 @@ We have provided a collection of problem statements that hackathon participants 
 ## Ready to Host a Hackathon?
 Send us an email at <hackathon@mathworks.com> to let us know that you're interested in hosting a hackathon, when and where you're thinking of hosting it, and if you have any questions about this repository! We can make sure you have the right resources and information to run a successful event. 
 
+If you are a MathWorks Student Ambassador, reach out to your MathWorks contact for support instead. 
+
 **_Users of this Hackathon in a Box are responsible for setting their own terms and conditions for their hackathons. Any third party content you access directly is subject to the relevant third party terms._**
 
 Copyright 2025-2026 The MathWorks, Inc.
