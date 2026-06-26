@@ -21,6 +21,7 @@ We have provided a collection of problem statements that hackathon participants 
 |[Fitness Tracker](https://github.com/mathworks/matlab-mobile-fitness-tracker)|[Microgrid on Mars](https://github.com/mathworks/microgrid-on-mars-activity)|[Drone Simulation](https://github.com/mathworks/drone-simulation)|
 |[Predicting Diabetes Mellitus](https://github.com/mathworks/predicting-diabetes-mellitus)|[Signal Decryption Challenge](https://github.com/robert-dobre/Signal-Decryption-Challenge/tree/main)||
 |[Predicting Building Energy Consumption](https://github.com/mathworks/predicting-building-energy-consumption)|||
+| [DataStorm Challenge](https://github.com/mathworks/hackathon-in-a-box/blob/main/Problem%20Statement%20Specific/DataStorm%20Challenge/Datastorm%20Instructions%20for%20Organizers.pdf) | |
 
 ## Ready to Host a Hackathon?
 Send us an email at <hackathon@mathworks.com> to let us know that you're interested in hosting a hackathon, when and where you're thinking of hosting it, and if you have any questions about this repository! We can make sure you have the right resources and information to run a successful event. 
